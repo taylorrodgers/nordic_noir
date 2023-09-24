@@ -1,0 +1,13 @@
+Package: nordicnoir
+Title: Nordic Noir Inspired Color Palette for ggplot2
+Version: 0.0.0.9000
+Authors@R: 
+    person("Taylor", "Rodgers", , "taylor.rodgers@freestateanalytics.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Provides color palettes + theme_pander inspired function for ggplot2
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Imports: 
+    ggplot2
