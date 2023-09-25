@@ -6,7 +6,8 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of nordicnoir is to …
+The goal of nordicnoir is to provide a color palette for ggplot2 that’s
+inspired by Nordic Noir tv series.
 
 ## Installation
 
@@ -20,7 +21,8 @@ devtools::install_github("taylorrodgers/nordic_noir")
 
 ## Example
 
-This is a basic example which shows you how to solve a common problem:
+This shows how you can use the respective functions within the
+nordicnoir package.
 
 ``` r
 library(nordicnoir)
